@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Mulish:wght@200;300;400;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap');
+
+.frame-5 {
+    width: 1440px;
+    height: 781px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.frame-5 a{
+   text-decoration: none;
+   color: #000000;
+}
+
+.image-2 {
+   width: 565px;
+    height: 376px;
+    position: absolute;
+    left: 144px;
+   top: 354px;
+   }
+
+.frame-6 {
+    width: 100%;
+    height: 157px;
+    position: absolute;
+    left: 192px;
+   top: 37px;
+   }
+
+.frame-7 {
+   background: #fcaab1;
+    border-radius: 15.79px;
+    width: 199px;
+    height: 157px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+   }
+
+.frame-7:hover{
+   border: #000000 solid;
+   box-shadow: 0 0 10px 5px #565151;
+}
+
+.search {
+   width: 28.43px;
+    height: 28.43px;
+    position: absolute;
+    left: calc(50% - 14.21px);
+   top: 7.9px;
+   }
+
+.blood-stock-availability {
+   color: #342d2d;
+    text-align: center;
+    font: 700 14px 'Mulish', sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    left: calc(50% - 84.5px);
+   bottom: 47.99px;
+    top: 64px;
+    width: 168.99px;
+   }
+
+.frame-8 {
+   background: #fcaab1;
+    border-radius: 15.79px;
+    width: 199px;
+    height: 157px;
+    position: absolute;
+    left: 562px;
+   top: 0px;
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+   }
+
+.frame-8:hover{
+   border: #000000 solid;
+   box-shadow: 0 0 10px 5px #565151;
+}
+
+.person {
+   width: 28.44px;
+    height: 28.44px;
+    position: absolute;
+    left: calc(50% - 14.18px);
+   top: 7.9px;
+   }
+
+.donor-login {
+   color: #342d2d;
+    text-align: center;
+    font: 700 14px 'Mulish', sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    left: calc(50% - 37.5px);
+   bottom: 55.87px;
+    top: 64px;
+    width: 75.84px;
+   }
+.donor-login a{
+   color: black;
+   text-decoration: none;
+}
+
+.frame-9 {
+   background: #f8ece9;
+    border-radius: 15.79px;
+    width: 199px;
+    height: 157px;
+    position: absolute;
+    left: 281px;
+   top: 0px;
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    
+   }
+
+.frame-9:hover{
+   border: #000000 solid;
+   box-shadow: 0 0 10px 5px #565151;
+}
+
+.building {
+   width: 27.29px;
+    height: 27.29px;
+    position: absolute;
+    left: calc(50% - 13.64px);
+   top: 7.58px;
+   }
+
+.blood-bank-directory {
+   color: #342d2d;
+    text-align: center;
+    font: 700 14px 'Mulish', sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    left: calc(50% - 56.5px);
+    bottom: 55.52px;
+    top: 54px;
+    width: 112.17px;
+   }
+
+.frame-10 {
+   background: #f8ece9;
+    border-radius: 15.79px;
+    width: 199px;
+    height: 157px;
+    position: absolute;
+    left: 857px;
+   top: 0px;
+    box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+   }
+
+.frame-10:hover{
+   border: #000000 solid;
+   box-shadow: 0 0 10px 5px #6f6a6a;
+}
+
+.time {
+    width: 28.43px;
+    height: 28.43px;
+    position: absolute;
+    left: calc(50% - 14.21px);
+    top: 7.9px;
+   }
+
+.blood-donation-camp {
+   color: #342d2d;
+    text-align: center;
+    font: 700 14px 'Mulish', sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    left: calc(50% - 51.5px);
+    bottom: 55.62px;
+    top: 54px;
+    width: 104.24px;
+   }
+
+
+
+.learn-about-donation {
+   color: #736060;
+    text-align: center;
+    font: 700 22px 'Mulish', sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    left: 581px;
+   top: 279px;
+   }
+
+
+.line-1 {
+    position: absolute;
+    left: 535px;
+    top: 301px;
+    transform: translate(-0.09px, -0.49px);
+    overflow: visible;
+   }
+
+
+.frame-11 {
+   background: #f8ece9;
+    border-radius: 0px 40px 0px 40px;
+    width: 475px;
+    height: 385px;
+    position: absolute;
+    left: 820px;
+   top: 353px;
+    overflow: hidden;
+   }
+
+.blood-type-compatibility {
+   color: #000000;
+    text-align: center;
+    font: 700 22px 'Mulish', sans-serif;
+    position: absolute;
+    left: calc(50% - 131.5px);
+   top: calc(50% - 171.5px);
+   }
+
+.frame-12 {
+   background: #fcaab1;
+    width: 94px;
+    height: 278px;
+    position: absolute;
+    left: 36px;
+   top: 75px;
+    overflow: hidden;
+   }
+
+.blood-type {
+   color: #000000;
+    text-align: center;
+    font: 700 12px 'Mulish', sans-serif;
+    position: absolute;
+    left: calc(50% - 32px);
+   top: calc(50% - 127px);
+   }
+
+.frame-13 {
+   background: #ffffff;
+    width: 143px;
+    height: 278px;
+    position: absolute;
+    left: 154px;
+   top: 75px;
+    overflow: hidden;
+   }
+
+.gives {
+   color: #000000;
+    text-align: center;
+    font: 700 12px 'Mulish', sans-serif;
+    position: absolute;
+    left: calc(50% - 54.5px);
+   top: calc(50% - 127px);
+    width: 110px;
+    height: 245px;
+   }
+
+.frame-14 {
+   background: #fcaab1;
+    width: 119px;
+    height: 280px;
+    position: absolute;
+    left: 321px;
+   top: 75px;
+    overflow: hidden;
+   }
+
+.receives {
+   color: #000000;
+    text-align: center;
+    font: 700 12px 'Mulish', sans-serif;
+    position: absolute;
+    left: calc(50% - 48.5px);
+   top: calc(50% - 129px);
+    width: 98px;
+    height: 256px;
+   }
+
+
+

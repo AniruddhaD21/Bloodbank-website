@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Mulish:wght@200;300;400;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.frame-1 {
+   background: #f8ece9;
+    border-radius: 0px 0px 300px 0px;
+    width: 100%;
+    height: 750px;
+    position: relative;
+    overflow: hidden;
+   }
+
+
+.logo {
+   width: 47px;
+   height: 44.61px;
+   position: absolute;
+   left: 110px;
+   top: 23px;
+   }
+
+
+.blood {
+    color: rgba(52, 52, 52, 0.75);
+    text-align: left;
+    font: 600 30px 'Mulish';
+    position: absolute;
+    left: 160px;
+    top: 34px;
+   }
+
+.frame-2{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 578px;
+    position: absolute;
+    left: 440px;
+    top: 39px;
+   }
+
+.home {
+   color: #743f3f;
+    text-align: left;
+    font: 600 22px 'Mulish';
+    position: relative;
+   }
+
+.home a{
+   color:#743f3f;
+   text-decoration: none;
+   position: relative;
+}
+
+.home a::before{
+   content: "";
+   position: absolute;
+   bottom: -2px;
+   height:3px;
+   width:0;
+   background: #161546;
+   border-radius: 5px;
+   transition: width 0.3s ease;
+}
+
+.home a:hover{
+   color:#e80303;
+}
+
+.home a:hover::before{
+   width: 100%;
+}
+
+.about-us {
+   color: #743f3f;
+    text-align: left;
+    font: 600 22px 'Mulish';
+    position: relative;
+   }
+
+.about-us a{
+   color:#743f3f;
+   text-decoration: none;
+}
+
+
+.about-us a::before{    /* Underline effect part 1*/
+   content: "";
+   position: absolute;
+   bottom: -2px;
+   height:3px;
+   width:0;
+   background: #161546;
+   border-radius: 5px;
+   transition: width 0.3s ease;
+}
+
+.about-us a:hover{
+   color:#e80303;
+}
+
+.about-us a:hover::before{       /* Underline effect part 2 */
+   width: 100%;
+}
+
+.searching-for-blood {
+   color: #743f3f;
+    text-align: left;
+    font: 600 22px 'Mulish';
+    position: relative;
+   }
+
+.searching-for-blood a{
+   color:#743f3f;
+   text-decoration: none;
+}
+
+.searching-for-blood a::before{
+   content: "";
+   position: absolute;
+   bottom: -2px;
+   height:3px;
+   width:0;
+   background: #161546;
+   border-radius: 5px;
+   transition: width 0.3s ease;
+}
+.searching-for-blood a:hover{
+   color:#e80303;
+}
+
+.searching-for-blood a:hover::before{
+   width: 100%;
+}
+
+.donor {
+   color: #743f3f;
+    text-align: left;
+    font: 600 22px 'Mulish', sans-serif;
+    position: relative;
+   }
+
+.donor a{
+   color:#743f3f;
+   text-decoration: none;
+}
+
+.donor a::before{
+   content: "";
+   position: absolute;
+   bottom: -2px;
+   height:3px;
+   width:0;
+   background: #161546;
+   border-radius: 5px;
+   transition: width 0.3s ease;
+}
+
+.donor a:hover{
+   color:#e80303;
+}
+
+.donor a:hover::before{
+   width: 100%;
+}
+
+.menu,
+.close {
+    cursor: pointer;
+    font-size: 20px;
+    display: none;
+}
+
+.frame-3 {
+    background: #252460;
+    border-radius: 20px;
+    padding: 5px 35px 5px 35px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 117px;
+    position: absolute;
+    left: 1207px;
+    top: 34px;
+    overflow: hidden;
+   }
+
+.frame-3:hover{
+   background: #e66262;
+   color:white;
+}
+
+.login {
+   color: #ffffff;
+    text-align: center;
+    font: 600 22px 'Mulish', sans-serif;
+    position: relative;
+   }
+
+.login a{
+   color:#ffffff;
+   text-decoration: none;
+}
+
+.login a:hover{
+   color:white;
+}
+   
+.hash {
+   color: #ce0000;
+    text-align: center;
+    font: 700 52.14px 'Mulish', sans-serif;
+    position: absolute;
+    left: 157px;
+   top: 175px;
+   }
+
+.be-hero {
+   color: #ce0000;
+    text-align: center;
+    font: 700 34.76px 'Mulish', sans-serif;
+    position: absolute;
+    left: 157px;
+   top: 240.17px;
+   }
+
+.donate-blood {
+   color: #ce0000;
+    text-align: center;
+    font: 700 34.76px 'Mulish', sans-serif;
+    position: absolute;
+    left: 157px;
+   top: 283.62px;
+   }
+
+.your-blood-has-the-power-to-save-lives {
+   color: #000000;
+    text-align: left;
+    font: 600 21.72px 'Mulish', sans-serif;
+    position: absolute;
+    left: 159.61px;
+   top: 351.39px;
+   }
+
+.plus-sign {
+   color: #ce0000;
+    text-align: left;
+    font: 400 31.28px 'Inter', sans-serif;
+    position: absolute;
+    left: 157px;
+   top: 402.66px;
+   }
+
+.minus-sign {
+   color: #ce0000;
+    text-align: left;
+    font: 400 31.28px 'Inter', sans-serif;
+    position: absolute;
+    left: 218.69px;
+   top: 402.66px;
+   }
+
+.there {
+   color: rgba(17, 17, 17, 0.71);
+    text-align: left;
+    font: 400 17.38px 'Inter', sans-serif;
+    position: absolute;
+    left: 157px;
+   top: 465.22px;
+    width: 537px;
+    height: 44.32px;
+   }
+
+
+.image {
+   width: 500px;
+   height: 500px;
+   position: absolute;
+   left: 810px;
+   top: 170px;
+   }
+
+
+.frame-4 {
+   background: #e66262;
+    border-radius: 20px;
+    width: 172px;
+    height: 42px;
+    position: absolute;
+    left: 157px;
+   top: 575px;
+    overflow: hidden;
+   }
+
+.frame-4:hover{
+   background: #252460;
+}
+
+.register-now {
+   color: #ffffff;
+    text-align: center;
+    font: 700 17px 'Mulish', sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    left: 20px;
+   top: calc(50% - 10px);
+   }
+
+   /* .register-now a{
+      color:#ffffff;
+      text-decoration: none;
+   } */
+   
+   /* .register-now a:hover{
+      color:white;
+   } */
+      
+   
+.communication {
+   width: 64px;
+   height: 53px;
+   position: absolute;
+   left: 1287px;
+   top: 623px;
+   }
+
+.register-now a{
+   color:#ffffff;
+   text-decoration: none;
+}

@@ -1,0 +1,641 @@
+@media screen and (max-width: 1100px){
+    
+    .frame-15 {  
+        background: #f8ece9;
+         border-radius: 200px 0px 200px 0px;
+         width: 100%;
+         height: 878px;
+         position: relative;
+         overflow: hidden;
+        }
+
+    .types-of-donation {
+        color: #736060;
+            text-align: center;
+            font: 700 20px 'Mulish', sans-serif;
+            text-transform: uppercase;
+            position: absolute;
+            left: 430px;
+        top: 47px;
+        }
+
+    .line-2 {
+        position: absolute;
+        left: 360px;
+        top: 69px;
+        transform: translate(-0.09px, -0.49px);
+        overflow: visible;
+        }
+
+    .world-blood-donor-day-paragraph{
+        color: #986b6f;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: 60px;
+        top: 60px;
+        width: 980px;
+        height: 89px;
+        padding: 40px 20px;
+        }
+    
+
+    .frame-17 {
+        left: 221px;
+        top: 213px;
+        }
+
+    .plasma {
+        font: 500 15px 'Mulish', sans-serif;
+        }
+        
+
+    .frame-18 {
+        left: 418px;
+        top: 211px;   
+        }
+
+    .packed-red-blood-cells {
+        font: 500 15px 'Mulish', sans-serif;
+        left: calc(50% - 82.48px);
+        }
+         
+
+    .frame-19 {
+        left: 666px;
+        top: 213px;
+        }
+
+
+    .platelet {
+        font: 500 15px 'Mulish', sans-serif;
+        }
+
+
+
+    .frame-20 {
+        width: 758px;
+        height: 523px;
+        position: absolute;
+        left: 60px;
+        top: 299px;
+        }
+
+    .frame-21 {
+        background: #ffffff;
+        border-radius: 24px;
+        width: 320px;
+        height: 251px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        box-shadow: 0px 4px 4px 0px rgba(81, 81, 81, 0.25);
+        overflow: hidden;
+        }
+
+    .frame-22 {
+        background: #d07f86;
+        width: 320px;
+        height: 40px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+        }
+
+             
+    .what-is-it {
+        color: #ffffff;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: 112px;
+        top: calc(50% - 10px);
+        }
+        
+    .the-straw-coloured {
+        color: #000000;
+        text-align: left;
+        font: 500 14px 'Mulish', sans-serif;
+        position: absolute;
+        left: 16px;
+        top: 56px;
+        width: 296px;
+        }
+                
+    .frame-23 {
+        width: 320px;
+        height: 251px;
+        left: 360px;
+        }
+        
+    .frame-24 {
+        width: 320px;
+        height: 40px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+        }
+        
+    .uses-for {
+        color: #ffffff;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: 124px;
+        top: 10px;
+        }
+        
+    .used-for-bleeding{
+        color: #000000;
+        text-align: left;
+        font: 500 14px 'Mulish', sans-serif;
+        position: absolute;
+        left: 15px;
+        top: 56px;
+        width: 296px;
+        }
+
+
+    .frame-25 {
+        background: #ffffff;
+        border-radius: 24px;
+        width: 320px;
+        height: 251px;
+        position: absolute;
+        left: 0px;
+        top: 272px;
+        box-shadow: 0px 4px 4px 0px rgba(81, 81, 81, 0.25);
+        overflow: hidden;
+        }
+        
+    .frame-26{
+        background: #d93b45;
+        width: 348px;
+        height: 39px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+        }
+        
+    .who-can-donate {
+        color: #ffffff;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: calc(50% - 80px);
+        top: calc(50% - 9.5px);
+        }
+        
+    .the-donation-criteria {
+        color: #000000;
+        text-align: left;
+        font: 500 14px 'Mulish', sans-serif;
+        position: absolute;
+        left: 16px;
+        top: 66px;
+        width: 296px;
+        }
+
+
+    .frame-27 {
+        background: #ffffff;
+        border-radius: 24px;
+        width: 320px;
+        height: 251px;
+        position: absolute;
+        left: 360px;
+        top: 272px;
+        box-shadow: 0px 4px 4px 0px rgba(81, 81, 81, 0.25);
+        overflow: hidden;
+        }
+        
+    .frame-28{
+        background: #d07f86;
+        width: 348px;
+        height: 39px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+        }
+        
+    .how-long {
+        color: #ffffff;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: calc(50% - 106px);
+        top: calc(50% - 9.5px);
+        width: 191px;
+        height: 20px;
+        }
+        
+    .minutes-to-donate {
+        color: #000000;
+        text-align: left;
+        font: 500 15px 'Mulish', sans-serif;
+        position: absolute;
+        left: 30px;
+        top: 66px;
+        width: 296px;
+        }
+
+    .image-3 {
+        width: 380px;
+        height: 652px;
+        position: absolute;
+        left: calc(50% - -190px);
+        top: 226px;
+        }
+        
+        
+    .frame-16  {  
+        width: 239px;
+        height: 164px;
+        position: absolute;
+        left: 800px;
+        top: calc(50% - 110px);
+        overflow: hidden;
+        }
+        
+    .world-blood-donor-day {
+        color: #000000;
+        text-align: center;
+        font: 600 25px 'Mulish', sans-serif;
+        text-transform: uppercase;
+        position: absolute;
+        left: calc(50% - 127.5px);
+        top: calc(50% - 40px);
+        width: 259px;
+        height: 30px;
+        }
+
+}
+
+
+
+
+ /* ------------------------------------------- 
+                    For Tablet
+  ----------------------------------------------- */
+
+
+  @media screen and (max-width: 900px){
+    
+
+    .frame-15 {  
+        background: #f8ece9;
+         border-radius: 0px 0px 0px 0px;
+         width: 100%;
+         height: 890px;
+         position: relative;
+         overflow: hidden;
+        }
+    
+        .types-of-donation {
+                color: #736060;
+                text-align: center;
+                font: 700 20px 'Mulish', sans-serif;
+                text-transform: uppercase;
+                position: absolute;
+                left: 340px;
+                top: 47px;
+                 
+            }
+
+        .line-2 {
+            position: absolute;
+            left: 260px;
+            top: 69px;
+            transform: translate(-0.09px, -0.49px);
+            overflow: visible;
+            }
+            
+
+        .world-blood-donor-day-paragraph{
+            color: #986b6f;
+            text-align: center;
+            font: 500 16px 'Mulish', sans-serif;
+            position: absolute;
+            left: 110px;
+            top: 70px;
+            width: 680px;
+            height: 60px;
+            padding: 40px 20px;
+            }
+        
+
+        .image-3 {
+            content-visibility: hidden;
+            }
+            
+        .world-blood-donor-day {
+            content-visibility: hidden;
+            }
+
+    
+        .frame-17 {
+            left: 160px;
+            top: 213px;
+            }
+            
+    
+        .frame-18 {
+            left: 340px;
+            top: 211px;   
+        }
+                
+    
+        .frame-19 {
+            left: 568px;
+            top: 213px;
+            }
+    
+                 
+        .frame-20 {
+            width: 758px;
+            height: 523px;
+            position: absolute;
+            left: 100px;
+            top: 299px;
+            }
+
+}
+
+
+
+
+
+ /* ------------------------------------------- 
+                    For Mobile
+  ----------------------------------------------- */
+
+
+
+@media screen and (max-width: 500px){
+    
+    .frame-15 {  
+        background: #f8ece9;
+         border-radius: 0px 0px 0px 0px;
+         width: 100%;
+         height: 1460px;
+         position: relative;
+         overflow: hidden;
+        }
+
+
+    .types-of-donation {
+            color: #736060;
+            text-align: center;
+            font: 700 18px 'Mulish', sans-serif;
+            text-transform: uppercase;
+            position: absolute;
+            left: 150px;
+            top: 50px;
+        }
+
+    .line-2 {
+        position: absolute;
+        left: 60px;
+        top: 68px;
+        }
+
+    .world-blood-donor-day-paragraph{
+        content-visibility: hidden;
+        }
+    
+
+    .world-blood-donar-day-paragraph-for-mobile{
+        display: list-item;
+        list-style-type: none;
+        color: #986b6f;
+        text-align: center;
+        font: 500 17px 'Mulish', sans-serif;
+        position: absolute;
+        left: 26px;
+        top: 110px;
+        }
+
+            
+    .frame-17 {
+        background: #aa4848;
+            border-radius: 30px;
+            width: 120px;
+            height: 46px;
+            position: absolute;
+            left: 10px;
+        top: 200px;
+            overflow: hidden;
+        }
+
+    .plasma {
+        font: 500 15px 'Mulish', sans-serif;
+        left: 35px;
+        }
+        
+
+    .frame-18 {
+        left: 140px;
+        top: 200px;   
+        width: 190px;
+        height: 46px;
+        }
+
+    .packed-red-blood-cells {
+        font: 500 15px 'Mulish', sans-serif;
+        top: 13px;
+        left: calc(50% - 82.48px);
+        }
+            
+
+    .frame-19 {
+        width: 120px;
+            height: 46px;
+        left: 340px;
+        top: 200px;
+        }
+
+
+    .platelet {
+        font: 500 15px 'Mulish', sans-serif;
+        left: 35px;
+        }
+
+
+    .frame-20 {
+        width: 758px;
+        height: 1023px;
+        position: absolute;
+        left: 60px;
+        top: 299px;
+        }
+
+    .frame-21 {
+        width: 320px;
+        height: 241px;
+        left: 20px;
+        top: 0px;
+        }
+
+    .frame-22 {
+        width: 320px;
+        height: 40px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+        }
+
+                
+    .what-is-it {
+        color: #ffffff;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: 112px;
+        top: calc(50% - 10px);
+        }
+        
+    .the-straw-coloured {
+        color: #000000;
+        text-align: left;
+        font: 500 14px 'Mulish', sans-serif;
+        position: absolute;
+        left: 16px;
+        top: 56px;
+        width: 296px;
+        }
+               
+    
+    .frame-25 {
+        background: #ffffff;
+        border-radius: 24px;
+        width: 320px;
+        height: 241px;
+        position: absolute;
+        left: 20px;
+        top: 272px;
+        box-shadow: 0px 4px 4px 0px rgba(81, 81, 81, 0.25);
+        overflow: hidden;
+        }
+        
+    .frame-26{
+        background: #d93b45;
+        width: 348px;
+        height: 39px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+        }
+        
+    .who-can-donate {
+        color: #ffffff;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: calc(50% - 80px);
+        top: calc(50% - 9.5px);
+        }
+        
+    .the-donation-criteria {
+        color: #000000;
+        text-align: left;
+        font: 500 14px 'Mulish', sans-serif;
+        position: absolute;
+        left: 16px;
+        top: 66px;
+        width: 296px;
+        }
+
+
+    .frame-23 {
+        background: #ffffff;
+        border-radius: 24px;
+        width: 320px;
+        height: 241px;
+        position: absolute;
+        left: 20px;
+        top: 548px;
+        box-shadow: 0px 4px 4px 0px rgba(81, 81, 81, 0.25);
+        overflow: hidden;
+        }
+    
+    .frame-24 {
+        background: #d93b45;
+        width: 348px;
+        height: 39px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+        }
+    
+    .uses-for {
+        color: #ffffff;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: 120px;
+        top: 10px;
+        }
+    
+    .used-for-bleeding{
+        color: #000000;
+        text-align: left;
+        font: 500 14px 'Mulish', sans-serif;
+        position: absolute;
+        left: 14px;
+        top: 56px;
+        width: 296px;
+        }
+        
+
+    .frame-27 {
+        background: #ffffff;
+        border-radius: 24px;
+        width: 320px;
+        height: 241px;
+        position: absolute;
+        left: 20px;
+        top: 830px;
+        box-shadow: 0px 4px 4px 0px rgba(81, 81, 81, 0.25);
+        overflow: hidden;
+    }
+    
+    .frame-28{
+        background: #d07f86;
+        width: 348px;
+        height: 39px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+    }
+    
+    .how-long {
+        color: #ffffff;
+        text-align: center;
+        font: 500 16px 'Mulish', sans-serif;
+        position: absolute;
+        left: 70px;
+        top:10px;
+        width: 191px;
+        height: 20px;
+    }
+    
+    .minutes-to-donate {
+        color: #000000;
+        text-align: left;
+        font: 500 14px 'Mulish', sans-serif;
+        position: absolute;
+        left: 24px;
+        top: 66px;
+        width: 296px;
+    }
+         
+
+}

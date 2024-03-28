@@ -1,0 +1,374 @@
+.desktop-1, .desktop-1 * {
+    box-sizing: border-box;
+    }
+
+.desktop-1 {
+    background: #d0c7f5;
+    width: 100%;
+    height: 750px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.frame-1 {
+   background: #fff2f2;
+    width: 565px;
+    height: 638px;
+    position: absolute;
+    left: 437px;
+   top: 56px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    margin-left: 40px;
+   }
+
+.frame-2 {
+   width: 181px;
+    height: 48px;
+    position: absolute;
+    left: 191px;
+   top: 14px;
+    overflow: hidden;
+   }
+
+.profile-information {
+   color: #c83a5c;
+    text-align: left;
+    font: 500 20px 'Inter', sans-serif;
+    position: absolute;
+    left: 2px;
+   top: 12px;
+   }
+
+.frame-3 {
+   width: 231px;
+    height: 54px;
+    position: absolute;
+    left: 22px;
+   top: 77px;
+   }
+
+.rectangle-1 {
+   background: #f57366;
+    border-radius: 7px;
+    width: 231px;
+    height: 32px;
+    position: absolute;
+    color:#ffffff;
+    padding-left: 10px;
+    border-style: none;
+    border-right: 14px solid #f57366;  /*  shift Select arrow  */
+   } 
+
+
+.name {
+    color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+   }
+
+.name input{
+   margin-top: 4px;
+}
+
+.frame-4 {
+   width: 231px;
+    height: 54px;
+    position: absolute;
+    left: 311px;
+   top: 77px;
+   }
+
+.age {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.age input{
+   margin-top: 4px;
+   }
+
+input::-webkit-inner-spin-button,   /*Hide Input Number Arrows*/
+input::-webkit-outer-spin-button{     
+   -webkit-appearance:none;
+}
+
+
+.frame-5 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 22px;
+   top: 153px;
+   }
+                 
+.gender {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+   }
+
+.gender select{
+      margin-top: 4px;
+   }
+
+.gender select option {
+   background-color: #ffffff; 
+   color: #000000; 
+ }
+
+.frame-6 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 311px;
+   top: 153px;
+   }
+
+.father-name {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+
+.father-name input{
+      margin-top: 4px;
+   }
+
+
+.frame-7 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 22px;
+   top: 235px;
+   }
+
+.mobile-no {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.mobile-no input{
+      margin-top: 4px;
+   }
+
+.frame-8 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 311px;
+   top: 235px;
+   }
+
+.email {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.email input{
+      margin-top: 4px;
+   }
+
+.frame-9 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 22px;
+   top: 316px;
+   }
+
+.medical-context
+{
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.medical-context select{
+      margin-top: 4px;
+   }
+
+.medical-context select option {
+   background-color: #ffffff; 
+   color: #000000; 
+   }
+
+
+.frame-10 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 311px;
+   top: 316px;
+   }
+
+.blood-type {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.blood-type select{
+      margin-top: 4px;
+   } 
+
+.blood-type select option {
+   background-color: #ffffff; 
+   color: #000000; 
+   }
+
+
+.frame-11 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 22px;
+   top: 397px;
+   }
+
+.state {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.state select{
+      margin-top: 4px;
+   } 
+
+.state select option {
+   background-color: #ffffff; 
+   color: #000000; 
+}
+
+.frame-12 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 311px;
+   top: 397px;
+   }
+
+.district {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.district select{
+      margin-top: 4px;
+   } 
+
+.district select option {
+   background-color: #ffffff; 
+   color: #000000; 
+}
+
+
+.frame-13 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 22px;
+   top: 479px;
+   }
+
+.address {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.address input{
+      margin-top: 4px;
+   } 
+
+.frame-14 {
+   width: 231px;
+    height: 59px;
+    position: absolute;
+    left: 311px;
+   top: 479px;
+   }
+
+.pin-code {
+   color: #5a5555;
+    text-align: left;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.pin-code input{
+      margin-top: 4px;
+   } 
+
+
+.frame-15 {
+   width: 231px;
+    height: 75px;
+    position: absolute;
+    left: calc(50% - 116.5px);
+   top: calc(50% - -227px);
+   }
+
+.rectangle-2 {
+   background: #f57366;
+    border-radius: 6px;
+    width: 105px;
+    height: 32px;
+    position: absolute;
+    left: calc(50% - 53.5px);
+   top: calc(50% - 7.5px);
+   border-style: none;
+   }
+
+.save {
+   color: #ffffff;
+    text-align: center;
+    font: 500 14px 'Inter', sans-serif;
+    position: absolute;
+    left: 90px;
+   top: 37px;
+   padding-left: 7px;
+   }
+

@@ -1,0 +1,177 @@
+.frame-29 {
+   background: #ffffff;
+    width: 1440px;
+    height: 291px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.about {
+    color: #554949;
+     text-align: center;
+     font: 700 18px 'Mulish', sans-serif;
+     position: absolute;
+     left: 100px;
+    top: 52px;
+    }
+
+
+.every-person {
+     color: #787373;
+     text-align: left;
+     font: 700 15px 'Mulish', sans-serif;
+     position: absolute;
+     left: 100px;
+     top: 104px;
+     width: 241px;
+     height: 70px;
+     }
+
+.frame-30 {
+        width: 133px;
+         height: 31px;
+         position: absolute;
+         left: 100px;
+        top: 216px;
+        }
+     
+
+.facebook {
+        width: 33px;
+         height: 30px;
+         position: absolute;
+         left: 0px;
+        top: 0px;
+    }
+     
+.instagram {
+        border-radius: 2px;
+         width: 44px;
+         height: 31px;
+         position: absolute;
+         left: 43px;
+        top: 0px;
+    }
+     
+.twitter-x {
+        width: 37px;
+         height: 27px;
+         position: absolute;
+         left: 96px;
+        top: 2px;
+    }
+
+
+.frame-31 {
+    width: 233px;
+    height: 174px;
+    position: absolute;
+    left: 567px;
+    top: calc(50% - 93.5px);
+    overflow: hidden;
+    }
+
+.looking-for-blood {
+    color: #d93b45;
+    text-align: left;
+    font: 700 15px 'Mulish', sans-serif;
+    position: absolute;
+    left: calc(50% - 98.5px);
+    top: calc(50% - 85px);
+    }
+
+
+.blood-availability{
+    color: #745e5e;
+    text-align: left;
+    font: 700 15px 'Mulish', sans-serif;
+    position: absolute;
+    left: 18px;
+    top: 52px;
+    width: 191px;
+    height: 116px;
+    }
+
+
+
+.frame-32 {
+    width: 233px;
+    height: 174px;
+    position: absolute;
+    left: 838px;
+    top: 52px;
+    overflow: hidden;
+    }
+     
+
+.quick-links {
+    color: #d93b45;
+    text-align: left;
+    font: 700 15px 'Mulish', sans-serif;
+    position: absolute;
+    left: calc(50% - 88.5px);
+    top: calc(50% - 85px);
+    }
+
+
+.doner-login {
+    color: #745e5e;
+    text-align: left;
+    font: 700 15px 'Mulish', sans-serif;
+    position: absolute;
+    left: 28px;
+    top: 52px;
+    width: 173px;
+    height: 92px;
+    }
+     
+     
+     
+
+
+.frame-33 {
+   width: 233px;
+    height: 174px;
+    position: absolute;
+    left: 1109px;
+    top: 52px;
+    overflow: hidden;
+   }
+
+
+.helpful-links {
+    color: #d93b45;
+    text-align: left;
+    font: 700 15px 'Mulish', sans-serif;
+    position: absolute;
+    left: calc(50% - 88.5px);
+    top: calc(50% - 85px);
+    }
+
+
+.learn-about {
+    color: #745e5e;
+    text-align: left;
+    font: 700 15px 'Mulish', sans-serif;
+    position: absolute;
+    left: 28px;
+    top: 52px;
+    width: 173px;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
